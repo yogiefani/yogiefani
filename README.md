@@ -1,4 +1,13 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Yogi Efani Yancandra**.\
+
+Saya seorang **Content Creattor & Backend Developer** [My Portfolio](https://linktr.ee/yogiefani).\
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yogi-efani-yancandra)ku ya.
+
+
 
 <!--
 **yogiefani/yogiefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
