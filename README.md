@@ -13,7 +13,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yogiefani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <!--
 **yogiefani/yogiefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
