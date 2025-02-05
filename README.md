@@ -6,7 +6,7 @@ Perkenalkan nama saya **Yogi Efani Yancandra**.
 Saya seorang **Content Creattor & Backend Developer** [My Portfolio](https://linktr.ee/yogiefani).
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yogi-efani-yancandra) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yogiefaniyancandra/) ku ya.
 
 <p align="left">
 <a href="https://github.com/dimasmds">
