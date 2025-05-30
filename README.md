@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Yogi Efani Yancandra**.
 
-Saya seorang **Content Creattor & Backend Developer** [My Portfolio](https://linktr.ee/yogiefani).
+Saya seorang **Fullstack Developer** [My Portfolio](https://linktr.ee/yogiefani).
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yogiefaniyancandra/) ku ya.
