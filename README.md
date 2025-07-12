@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/yogiefani/profile%20yogi%20(1).png?updatedAt=1736406371173" width="100%">
+<img src="https://ik.imagekit.io/yogiefani/profile%20yogi%20panjang.png?updatedAt=1752327190345" width="100%">
 # Halo semua! 
 
 Perkenalkan nama saya **Yogi Efani Yancandra**.
